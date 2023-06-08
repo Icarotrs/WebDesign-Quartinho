@@ -1,2 +1,3 @@
 # WebDesign-Quartinho
-Design responsivo com objetivo de desenvolver habilidades no desenvolvimento web utilizando também o PHP
+O "Quartinho" é um design que estou desenvolvendo como projeto de uma disciplina da faculdade
+O objetivo é estudar, além da responsividade, a implementação de posts que funcionem como um blog e um sistema de Login com perfil de usuário.
